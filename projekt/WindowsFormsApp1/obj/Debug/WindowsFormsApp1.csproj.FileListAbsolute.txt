@@ -1,0 +1,30 @@
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\VAIO\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\VAIO\Desktop\zal mgr\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mumek\Desktop\Projekt Mgr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
